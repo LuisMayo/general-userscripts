@@ -3,7 +3,7 @@
 // @namespace    LuisMayo
 // @version      0.1
 // @description  Go to source code of a github.io page
-// @author       You
+// @author       LuisMayo
 // @match        https://*.github.io/*
 // ==/UserScript==
 
