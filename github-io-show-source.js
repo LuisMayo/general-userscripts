@@ -9,6 +9,7 @@
 
 (function() {
     'use strict';
+    console.log('Webhook test');
     const container = document.createElement('a');
     container.style.position = 'absolute';
     container.style.right = '20px';
