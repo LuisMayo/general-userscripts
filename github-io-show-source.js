@@ -2,7 +2,7 @@
 // @name         Github.io show source
 // @namespace    LuisMayo
 // @version      0.1
-// @description  Go to source code of a github.io page
+// @description  Go to source code of a github.io page. Source code on https://github.com/LuisMayo/general-userscripts/
 // @author       LuisMayo
 // @match        https://*.github.io/*
 // ==/UserScript==
